@@ -1,5 +1,4 @@
 import './App.css'
-
 import Asrorbek from './components/Asrorbek'
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
   return (
     <>
     <Asrorbek></Asrorbek>
-   </>
+ </>
   )
 }
 
