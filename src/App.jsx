@@ -1,11 +1,12 @@
 import './App.css'
-import Umar from './components/Umar'
+
+import Asrorbek from './components/Asrorbek'
 
 function App() {
 
   return (
     <>
-    <Umar></Umar>
+    <Asrorbek></Asrorbek>
    </>
   )
 }
